@@ -2,7 +2,7 @@ Massive telnet password tester for routers.
 ============================
 Commercial name: TYFYP (Thank you for your password), to the honor of ADTRAN telnet banner motd welcome message.
 
-Please use it ONLY in LAN IPs. This is a very rudimentary program only for investigation purposes.
+Please use it ONLY in LAN IPs. This is a very rudimentary program only for investigation purposes. Developed on Retina Display machine, so there may be UI errors in normal resolution screens.
 
 ## REQUIREMENTS:
 - Windows.
