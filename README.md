@@ -20,6 +20,6 @@ Please use it ONLY in LAN IPs. This is a very rudimentary program only for inves
 - You will see green lines in case of successful connection, red lines if not.
 - Clear red lines means there wasn't telnet service listening (or your network connection fails).
 
-## Future improvements:
+## FUTURE IMPROVEMENTS:
 - Be able to read telnet user, password and enable password directly from IP list txt. This will allow to try multiples password for each IP.
 - Make it multi-threading.
